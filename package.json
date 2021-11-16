@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@puresec/function-shield": "^2.0.12",
-    "aws-sdk": "^2.466.0"
+    "aws-sdk": "^2.814.0"
   }
 }
